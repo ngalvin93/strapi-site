@@ -1,10 +1,7 @@
 import React from 'react'
 import Slideshow from '../../components/Slideshow'
 import Query from "../../components/Query";
-
 import SLIDESHOW_QUERY from '../../queries/slideshow/slideshow'
-
-// graphql query
 
 export default function HomeSlideshow() {
     return (
